@@ -29,7 +29,7 @@ I'm continuously expanding my knowledge and skills, especially in:
 ## 📫 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/tiago-moscoso-38174b252/)
-- Email: `tiagocarvalhomoscoso@gmail.com` (click to copy)
+- Email: `tiagocarvalhomoscoso@gmail.com`
 
 Feel free to check out my repositories and projects. I'm always open to collaborating on exciting projects and learning new things!
 
