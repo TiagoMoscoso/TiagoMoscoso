@@ -43,7 +43,7 @@ Feel free to check out my repositories and projects. I'm always open to collabor
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoMoscoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-          
+</div>     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -52,4 +52,4 @@ Feel free to check out my repositories and projects. I'm always open to collabor
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-     
+</div>
