@@ -15,7 +15,7 @@
 
 ## 💼 Professional Experience
 
-Currently, I work in the Energy Solutions sector at Metrum Equipamentos de Medição & Testes Ltda, where I apply my skills to develop innovative solutions.
+Currently, I work in the software development sector at Metrum Equipamentos de Medição & Testes Ltda, a company focused on developing energy solutions.
 
 ## 🌱 What I'm Learning
 
