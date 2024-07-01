@@ -9,7 +9,7 @@
 - **Containerization:** Docker
 - **Frontend Technologies:** Blazor
 - **Embedded Systems and IoT:** Extensive experience in C/C++
-- **Desktop Applications:** Java
+- **Desktop Applications:** Java and C# (maui/windows forms)
 - **Scripting and Statistical Programs:** Python
 - **Mobile Development:** Flutter and Dart
 
