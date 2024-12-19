@@ -1,6 +1,6 @@
 # Hi there, I'm Tiago Carvalho Moscoso! 👋
 
-🎓 I'm a Computer Engineering student at PUC Minas, currently in my 6th semester out of 10 (6/10).
+🎓 I'm a Computer Engineering student at PUC Minas, currently in my 7th semester out of 10 (7/10).
 
 ## 🔧 Technologies & Tools
 
