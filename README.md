@@ -27,7 +27,7 @@ I'm continuously expanding my knowledge and skills, especially in:
 - Exploring Frontend Development with Blazor to improve backend integration
 
 ## 📫 Get in Touch
-
+- [Portfolio](https://portfolio-nine-zeta-a2nmbx28ge.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/tiago-moscoso-38174b252/)
 - Email: `tiagocarvalhomoscoso@gmail.com`
 
